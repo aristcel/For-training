@@ -1,4 +1,4 @@
-Cheatsheets
+**Cheatsheets**
 
 This directory contains various cheatsheets, quick reference guides, notes, and checklists that I create and use myself. The goal is to keep useful information organized and easily accessible whenever I need a quick refresher.
 
